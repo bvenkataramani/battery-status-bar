@@ -1,4 +1,4 @@
-# Battery Status Bar in Flask
+# Battery Status Indicator
 Easily modifiable battery status indicator with Flask.
 
 ## Usage
